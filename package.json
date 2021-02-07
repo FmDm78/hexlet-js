@@ -1,0 +1,20 @@
+{
+  "name": "First Project on Hexlet",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "First Project on Hexlet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "",
+    "url": "git+https://github.com/FmDm78/hexlet-js.git"
+  },
+  "author": "FmDm78",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FmDm78/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/FmDm78/hexlet-js#readme"
+}
